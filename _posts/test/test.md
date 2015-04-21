@@ -1,0 +1,27 @@
+---
+layout: post
+title: "재밋는 테스트 문서 놀이"
+excerpt: "My test post"
+tags: [testman]
+comments: false
+image:
+  feature: sample-image-4.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
+오늘은 하루종일 루비를 설치하고 놀았다.
+
+그러다 암에 걸렸다.
+
+약 먹을 시간이다.
+
+## Cupidatat 90's lo-fi authentic try-hard
+
+Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole. 
+
+> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
+
+Tote bag asymmetrical elit sunt.
+
+[^1]: Texture image courtesty of [Lovetextures](http://www.lovetextures.com/)
