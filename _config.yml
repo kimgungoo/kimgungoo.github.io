@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:              
+title:            Kimgungoo
+locale:           ko
+url:              kimgungoo.kr
 
 
 # Jekyll configuration
@@ -26,25 +26,25 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: 김건구
+  avatar: https://avatars3.githubusercontent.com/u/1075704?v=3&u=4c3dca9086df967a94410d5858786eab6ee42d9e&s=140
+  bio: "공사중"
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: kimgungoo
+  facebook: kimgungoo
   google:
-    plus: #username
+    plus: kimgungoo
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: kimgungoo
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: kimgungoo
   xing: #username
-  instagram: #username
+  instagram: kimgungoo
   lastfm: #username
   tumblr: #username
   pinterest: #username
