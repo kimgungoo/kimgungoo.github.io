@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:            Kimgungoo
-locale:           ko
+locale:           ko_KR
 url:              kimgungoo.kr
 
 
